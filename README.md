@@ -48,3 +48,8 @@ Tear down
 Simply use our tear down script:
 
 `down.sh`
+
+Note
+----
+
+This is barely tested on MacOS.  If you see issues, feel free to submit a PR or open an issue! Although it should work on Linux, it has not yet been tested on Linux.
